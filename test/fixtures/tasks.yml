@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  decription: MyString
+  project: one
+
+two:
+  decription: MyString
+  project: two
